@@ -1,5 +1,3 @@
-# SQL Practice for QA Engineers
-
 ## Project Overview
 This repository contains SQL queries designed specifically for QA Engineers.
 It focuses on real-world testing scenarios such as data validation, bug reproduction,
